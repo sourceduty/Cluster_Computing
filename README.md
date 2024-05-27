@@ -25,6 +25,8 @@ The use of Pi clusters is driven by their cost-effectiveness, flexibility, and t
 ### Related Links
 
 [Electronic Simulator](https://chatgpt.com/g/g-409Bg1hAQ-electronic-simulator)
+<br>
+[Data Project](https://chatgpt.com/g/g-Rwc3ikNU7-data-project)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
