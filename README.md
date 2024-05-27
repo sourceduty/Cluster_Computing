@@ -21,5 +21,10 @@ Pi clusters can help in various ways, particularly in educational settings and s
 
 The use of Pi clusters is driven by their cost-effectiveness, flexibility, and the ability to provide practical experience in distributed computing. Unlike traditional high-performance computing (HPC) systems, which can be prohibitively expensive, Pi clusters offer an accessible entry point for individuals, educators, and small organizations. They are particularly popular in STEM education, where they serve as an engaging tool for teaching complex computing concepts. Additionally, hobbyists and makers find Pi clusters useful for building custom projects that require some level of distributed computation without the need for significant financial investment.
 
+#
+### Related Links
+
+[Electronic Simulator](https://chatgpt.com/g/g-409Bg1hAQ-electronic-simulator)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
