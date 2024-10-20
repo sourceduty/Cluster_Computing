@@ -40,6 +40,15 @@ Using server rack-mounted PCs for a 10-node cluster dedicated to offline GPT dep
 The largest cost factor in this setup is the GPU selection. Opting for NVIDIA Tesla T4 GPUs (16GB VRAM, optimized for AI inference tasks) would cost around $20,000 USD for 10 GPUs, bringing the total cost of the cluster to $50,000 USD. If more robust performance is needed, the NVIDIA A40 (48GB VRAM) offers enhanced GPU performance for larger models, increasing the total GPU cost to $40,000 USD, with the overall cluster cost rising to $70,000 USD. Both options provide significant savings over consumer-grade setups, while also offering better scalability and efficiency in rack-mounted environments. In summary, the total estimated cost for a 10-server rack-mounted GPT cluster would range between $50,000 and $70,000 USD, depending on the chosen GPUs, making this a highly cost-effective solution for offline GPT applications.
 
 #
+### Clustered Laptops
+
+![Clustered](https://github.com/user-attachments/assets/e7ba63be-2abb-4830-8daa-cb86a6b7e636)
+
+Cluster computing with laptops involves connecting multiple laptops together to form a cluster, allowing them to work in tandem on computational tasks. This setup is commonly used for parallel processing, data analysis, or distributed computing tasks like training machine learning models. The laptops in a cluster communicate over a network, and each device contributes its CPU, memory, and storage resources to process tasks. To establish such a cluster, you'll need to connect the laptops using network infrastructure. The most basic connection method involves using Ethernet cables, with each laptop directly connected to a network switch. The switch manages traffic between the laptops, ensuring efficient communication. For clusters with fewer laptops, a direct connection using Ethernet cables and crossover cables can also work, though it’s less scalable and efficient compared to using a network switch.
+
+In terms of methods, distributed computing frameworks such as MPI (Message Passing Interface), Dask, or Apache Spark are often employed to enable parallel processing across the laptops. Each laptop in the cluster is assigned a specific role, such as a "master" or "worker" node, with the master node orchestrating tasks across the worker nodes. SSH (Secure Shell) is commonly used to control and manage the nodes in the cluster, allowing the main laptop to execute commands and distribute tasks to the others. Alternatively, you can set up one laptop to act as a network bridge for smaller clusters without a switch, enabling communication between laptops via Internet Connection Sharing (ICS) or creating a bridge connection.
+
+#
 
 > Alex: "*Cluster computing offline custom GPTs?*"
 
