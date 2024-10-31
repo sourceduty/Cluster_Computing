@@ -49,7 +49,9 @@ Cluster computing with laptops involves connecting multiple laptops together to 
 In terms of methods, distributed computing frameworks such as MPI (Message Passing Interface), Dask, or Apache Spark are often employed to enable parallel processing across the laptops. Each laptop in the cluster is assigned a specific role, such as a "primary" or "worker" node, with the master node orchestrating tasks across the worker nodes. SSH (Secure Shell) is commonly used to control and manage the nodes in the cluster, allowing the main laptop to execute commands and distribute tasks to the others. Alternatively, you can set up one laptop to act as a network bridge for smaller clusters without a switch, enabling communication between laptops via Internet Connection Sharing (ICS) or creating a bridge connection.
 
 #
+![USB](https://github.com/user-attachments/assets/fff2b703-ec37-4138-96af-56a02f811686)
 
+#
 > Alex: "*Cluster computing offline custom GPTs?*"
 
 #
