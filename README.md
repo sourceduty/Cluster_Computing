@@ -69,6 +69,8 @@ In terms of methods, distributed computing frameworks such as MPI (Message Passi
 [Data Project](https://chatgpt.com/g/g-Rwc3ikNU7-data-project)
 <br>
 [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
+<br>
+[Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
