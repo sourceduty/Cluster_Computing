@@ -38,6 +38,13 @@ Microcontroller boards, like Raspberry Pi, Arduino, and similar variants, are us
 Clusters of used laptops and desktop PCs, often more powerful than microcontroller boards, can manage larger computational tasks with both parallel and sequential processing. By repurposing older hardware in clusters, users can run applications that require intensive data analysis, such as scientific simulations, big data processing, and distributed databases. For sequential processing, these clusters can run tasks where each computer handles a distinct stage in a workflow, making them suitable for research tasks that follow logical steps, such as bioinformatics or image rendering. This mix of parallel and sequential capabilities enables clusters to manage both multi-threaded tasks and operations requiring ordered stages, making them a cost-effective solution for high-performance applications across diverse fields.
 
 #
+### Microcontroller Machines
+
+Microcontroller boards, such as Arduino, ESP32, and Raspberry Pi, are widely used in hobbyist and DIY machine control projects due to their affordability, flexibility, and ease of use. These boards allow users to control a variety of machines, from simple devices like automated blinds and lights to more complex systems such as robotic arms and CNC (Computer Numerical Control) machines. With the help of these microcontrollers, users can build custom controllers for 3D printers, motorized vehicles, or home automation systems, often incorporating sensors and actuators to respond to environmental inputs. The programming is accessible for beginners yet robust enough for complex tasks, making microcontrollers a popular choice for machine control in personal projects, educational environments, and maker spaces.
+
+Projects utilizing microcontroller-based machine control often involve a blend of mechanics, electronics, and software, encouraging users to explore interdisciplinary skills. For example, an Arduino board can control the movements of a robotic arm in a step-by-step process, where users can program the board to perform tasks like sorting objects or drawing patterns. Similarly, a Raspberry Pi, with its more advanced processing capabilities, can control machines that require more computational power, such as autonomous robots that navigate spaces based on real-time data from sensors. These projects provide hands-on learning in machine control, helping users understand how machines operate and are controlled, without the need for professional-grade, factory-level equipment.
+
+#
 ### Server Rack-Mounted PCs
 
 ![Rack-Mounted](https://github.com/user-attachments/assets/5a27d056-3bf6-4829-8936-7feffe233ed8)
