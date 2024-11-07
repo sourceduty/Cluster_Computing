@@ -7,14 +7,15 @@
 Cluster computers are a collection of interconnected computers that work together as a single, unified system to perform complex computations and process large volumes of data. Each individual computer, or node, within the cluster operates independently but collaborates with the others to tackle tasks more efficiently than a single machine could. These nodes are connected through a high-speed network, enabling them to share data and workload seamlessly. Cluster computing is employed in a wide range of applications, from scientific simulations and financial modeling to big data analytics and web services. By distributing the computational load across multiple nodes, cluster computers enhance performance, reliability, and scalability, making them an essential tool for organizations that require significant processing power without the cost and limitations of supercomputers. The modular nature of clusters allows for easy expansion and maintenance, providing a flexible and cost-effective solution for meeting evolving computational demands.
 
 #
-### Distrubuted Computing
+### Cluster Computing
 
-Distributed computing involves a network of separate computers, or nodes, working together to solve a problem or perform a task. Each node operates independently, processing its portion of the task and communicating with other nodes as needed. This approach allows for the efficient use of resources, as tasks can be divided and processed concurrently across multiple nodes. Distributed computing is essential for large-scale data processing, scientific simulations, and applications that require significant computational power and storage capacity.
-
-#
-### Parallel Processing
-
-Parallel processing, a subset of distributed computing, specifically refers to the simultaneous execution of multiple tasks or computations. In parallel processing, a single computational problem is divided into smaller sub-problems that can be solved concurrently. This technique enhances the speed and efficiency of data processing by leveraging multiple processors or cores to perform calculations simultaneously. Parallel processing is widely used in various fields, including scientific research, data analysis, and machine learning, where it significantly reduces the time required to complete complex computations. By utilizing the combined power of multiple processors, parallel processing enables more efficient and effective handling of computationally intensive tasks.
+| Cluster Type                 | Description                                                                                                                                     | Examples/Use Cases                                         |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| High-Performance Computing (HPC) Clusters | Systems built for intensive computations, commonly used in scientific research and large-scale simulations.                            | Supercomputer Clusters (e.g., Summit), Beowulf Clusters    |
+| Load Balancing Clusters      | Distributes workload across nodes to improve response time and manage high demands.                                                             | Web Server Clusters, Database Clusters                     |
+| High Availability (HA) Clusters | Ensures system uptime by providing redundancy, minimizing downtime in case of hardware or software failures.                                 | Failover Clusters, Replication Clusters                    |
+| Storage Clusters             | Provides scalable and reliable storage solutions, often handling large volumes of data with distributed systems.                               | Distributed File Systems (e.g., HDFS), Object Storage      |
+| Hybrid Clusters              | Combines multiple cluster types to balance performance, availability, and scalability in diverse environments.                                 | Compute and Storage Combination, Cloud-Based Clusters      |
 
 #
 ### Pi Cluster
