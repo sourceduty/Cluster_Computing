@@ -16,6 +16,9 @@ Cluster computers are a collection of interconnected computers that work togethe
 | High Availability (HA) Clusters | Ensures system uptime by providing redundancy, minimizing downtime in case of hardware or software failures.                                 | Failover Clusters, Replication Clusters                    |
 | Storage Clusters             | Provides scalable and reliable storage solutions, often handling large volumes of data with distributed systems.                               | Distributed File Systems (e.g., HDFS), Object Storage      |
 | Hybrid Clusters              | Combines multiple cluster types to balance performance, availability, and scalability in diverse environments.                                 | Compute and Storage Combination, Cloud-Based Clusters      |
+| Data Mining Clusters             | Configured for intensive data processing tasks, used for extracting insights from large datasets, often in business analytics and machine learning.| Hadoop Clusters, Spark Clusters                                  |
+| Cryptocurrency Mining Clusters   | Used for mining cryptocurrencies, requiring high processing power and often specialized hardware to solve cryptographic algorithms efficiently.     | Bitcoin Mining Rigs, Ethereum GPU Clusters                       |
+| File Farming Clusters            | Designed to provide decentralized storage, commonly used in blockchain-based storage networks where users share and rent out storage space.        | Filecoin Clusters, Chia Farming Clusters                         |
 
 #
 ### Pi Cluster
