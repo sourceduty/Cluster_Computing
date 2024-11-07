@@ -18,6 +18,28 @@ Cluster computers are a collection of interconnected computers that work togethe
 | Data Mining Clusters             | Configured for intensive data processing tasks, used for extracting insights from large datasets, often in business analytics and machine learning.| Hadoop Clusters, Spark Clusters                                  |
 | Cryptocurrency Mining Clusters   | Used for mining cryptocurrencies, requiring high processing power and often specialized hardware to solve cryptographic algorithms efficiently.     | Bitcoin Mining Rigs, Ethereum GPU Clusters                       |
 | File Farming Clusters            | Designed to provide decentralized storage, commonly used in blockchain-based storage networks where users share and rent out storage space.        | Filecoin Clusters, Chia Farming Clusters                         |
+| File Generation Clusters | Systems specialized in generating and managing large volumes of files efficiently by distributing tasks across nodes, ensuring high performance and scalability. | Multimedia Processing Clusters, Data Analytics Clusters |
+
+#
+### Media Generation Cluster
+
+![File Cluster](https://github.com/user-attachments/assets/0416166f-9bc4-4b14-a5ed-4088743e09b7)
+
+File generation clusters are systems or groups of interconnected servers and computing resources that work together to generate, manage, and store files in large volumes. These clusters are typically composed of multiple nodes, which collaborate to process data and produce files efficiently. By distributing tasks across various nodes, file generation clusters enable high-performance computing environments that can handle significant workloads, thus reducing bottlenecks associated with single-machine file handling. In cloud computing and data processing environments, these clusters are often managed by orchestration tools to ensure that resources are utilized optimally, while tasks like load balancing, fault tolerance, and scaling are managed dynamically. This architecture supports rapid file production, benefiting sectors like multimedia processing, data analytics, and scientific research where large-scale data generation is common.
+
+The structure of file generation clusters also prioritizes data integrity and redundancy to prevent data loss and ensure continuity of operations. Redundant data storage techniques, such as replication and distributed file systems, ensure that data is available across multiple nodes, allowing for data recovery in the case of node failures. Clusters are designed to be highly scalable, supporting the addition of new nodes as data processing needs grow. Moreover, file generation clusters often employ advanced algorithms to prioritize tasks and optimize file generation speeds. This efficiency makes them well-suited for complex workflows that involve simultaneous file creation and transformation, enabling organizations to process data at high speeds and accommodate large datasets without compromising on performance or reliability.
+
+#
+
+| Model      | Quality  | Resolution             | Price per Image | Images with $20 Budget |
+|------------|----------|------------------------|-----------------|------------------------|
+| DALL-E 3   | Standard | 1024x1024              | $0.04           | 500                    |
+| DALL-E 3   | Standard | 1024x1792, 1792x1024   | $0.08           | 250                    |
+| DALL-E 3   | HD       | 1024x1024              | $0.08           | 250                    |
+| DALL-E 3   | HD       | 1024x1792, 1792x1024   | $0.12           | 166                    |
+| DALL-E 2   | -        | 1024x1024              | $0.02           | 1000                   |
+| DALL-E 2   | -        | 512x512                | $0.018          | 1111                   |
+| DALL-E 2   | -        | 256x256                | $0.016          | 1250                   |
 
 #
 ### Pi Cluster
