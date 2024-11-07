@@ -100,6 +100,8 @@ Virtualization and containerization are also set to play significant roles in th
 #
 > Alex: "*Cluster computing offline custom GPTs?*"
 
+> "*I might build a media generation cluster for Sourceduty.*"
+
 #
 ### Related Links
 
