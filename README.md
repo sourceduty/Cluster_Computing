@@ -135,9 +135,6 @@ Cluster computing networks are organized to optimize task execution and resource
 Cluster computing requires precise control to avoid inefficiencies and maximize the performance of resources. Effective utilization demands careful management of workloads, ensuring that tasks are evenly distributed and that the system operates at peak efficiency. The handling of resulting products, whether they are data analyses, simulations, or other outputs, must also be streamlined to maintain quality and relevance. Properly managing these processes ensures that computational power is not wasted and that the products generated meet the intended goals, making careful oversight a critical aspect of cluster computing.
 
 #
-![USB](https://github.com/user-attachments/assets/fff2b703-ec37-4138-96af-56a02f811686)
-
-#
 > Alex: "*Cluster computing offline custom GPTs?*"
 
 > "*I might build a media generation cluster for Sourceduty.*"
