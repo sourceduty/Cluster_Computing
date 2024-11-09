@@ -1,6 +1,6 @@
 ![Computer Cluster](https://github.com/sourceduty/Cluster_Computing/assets/123030236/78546592-0533-40ee-aeb1-28d2145ccd14)
 
-> Interconnected computers that work together as a single, unified system.
+> Interconnected computers that work together as a single, unified system. Creating bulk files to sell.
 
 #
 
