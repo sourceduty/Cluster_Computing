@@ -154,6 +154,8 @@ Beyond technical and scientific applications, cluster computing supports the cre
 
 > "*I might build a media generation cluster for Sourceduty.*"
 
+> "*Someone could potentially utilize or sell unique bulk files created using cluster computer processing.*"
+
 #
 ### Related Links
 
