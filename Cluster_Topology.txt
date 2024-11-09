@@ -1,0 +1,31 @@
+-------------- Star Topology --------------
+
+          [Node1]
+            |
+[Node2]--[Hub]--[Node3]
+            |
+          [Node4]
+
+-------------- Ring Topology --------------
+
+          [Node1]---[Node2]---[Node3]
+             |                 |
+          [Node5]---[Node4]---|
+
+-------------- Mesh Topology --------------
+
+        [Node1]---[Node2]
+         /   \      /   \
+[Node3]     [Node4]     [Node5]
+
+-------------- Bus Topology --------------
+
+[Node1]---[Node2]---[Node3]---[Node4]---[Node5]
+
+-------------- Tree Topology --------------
+
+          [Node1]
+         /     \
+    [Node2]   [Node3]
+      /   \     /   \
+[Node4] [Node5] [Node6] [Node7]
