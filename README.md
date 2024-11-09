@@ -125,6 +125,11 @@ The future of cluster computing is likely to witness a shift toward smaller, mor
 Virtualization and containerization are also set to play significant roles in the evolution of cluster computing. In a future where cluster systems may exist as entirely virtual constructs, clusters could be dynamically created, scaled, and managed via software-defined networking and cloud platforms. This would allow multiple users to share and customize cluster resources flexibly, leveraging the virtual cloud environment to maximize efficiency and cost-effectiveness. With software-defined clusters, organizations could allocate computing power precisely where and when needed, significantly reducing resource wastage. Ultimately, these virtual clusters could integrate seamlessly with AI-driven orchestration tools, making cluster computing highly adaptive, self-healing, and responsive to workload demands in real-time.
 
 #
+### Cluster Networking 
+
+Cluster computing networks are organized to optimize task execution and resource sharing among interconnected nodes. Linear networks arrange nodes sequentially, where communication primarily occurs between adjacent nodes, making them efficient for tasks requiring stepwise data processing. Radial (or star) networks centralize connectivity around a central hub, enabling fast communication between the hub and peripheral nodes but introducing a single point of failure. Mesh networks interconnect nodes directly, fostering redundancy and parallel communication paths for high fault tolerance. Hybrid networks combine these topologies, blending linear, radial, or mesh configurations to suit specific computational or fault-tolerance needs.
+
+#
 ![USB](https://github.com/user-attachments/assets/fff2b703-ec37-4138-96af-56a02f811686)
 
 #
