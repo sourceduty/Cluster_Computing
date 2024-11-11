@@ -21,7 +21,7 @@ The tool adapts to both beginners and experts, simplifying complex concepts wher
 #
 ### New or Used Hardware
 
-![VGA](https://github.com/user-attachments/assets/47c48385-7435-46fc-9182-4c16528f1ecf)
+![Serial Communication](https://github.com/user-attachments/assets/47c48385-7435-46fc-9182-4c16528f1ecf)
 
 When considering hardware for computer clusters, the choice between new and used components depends on factors like performance, budget, and application requirements. New hardware offers cutting-edge performance, enhanced reliability, and the latest energy-efficient technologies. It is well-suited for high-performance computing (HPC), AI/ML training, and large-scale data analytics where peak efficiency and long-term support are critical. Newer hardware often supports the latest standards, such as faster interconnects (e.g., InfiniBand or PCIe generations), which can significantly impact the cluster’s overall throughput and latency. Additionally, new hardware typically includes warranties and vendor support, reducing downtime and maintenance costs for demanding production environments.
 
