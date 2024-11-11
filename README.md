@@ -37,6 +37,15 @@ Ethernet cables come in various categories, each supporting different speeds dep
 400 Gbps Ethernet standard is more specialized and typically used in high-performance environments like data centers. Cables designed to support this speed generally fall under the 400GBASE-T standard, which is often used with fiber optic cables or high-quality copper wiring. These high-speed cables are not common in consumer or typical business networking, as they are meant for very demanding networking scenarios requiring extreme bandwidth. Thus, while 400 Gbps Ethernet cables do exist, they are not the standard for most users or everyday applications.
 
 #
+### Pi-Monitoring
+
+![Sensors](https://github.com/user-attachments/assets/7aa8cec2-aa41-4605-961f-c1170df78131)
+
+Using Raspberry Pi devices to monitor a computing cluster offers a cost-effective and flexible solution for real-time data collection and environmental monitoring. Raspberry Pi boards can be equipped with various sensors to track parameters such as temperature, humidity, power consumption, and physical security. These sensors provide crucial data that can help ensure optimal operating conditions for the cluster, reducing risks of overheating or hardware failure. The Raspberry Pi’s GPIO (General-Purpose Input/Output) pins make it easy to integrate a wide range of sensors, such as thermistors, light sensors, or even motion detectors, allowing administrators to customize monitoring to their specific needs. Additionally, their compact size and low power consumption make them ideal for embedding into server racks or data center environments.
+
+By leveraging Raspberry Pi devices, cluster administrators can centralize monitoring tasks through software like Python scripts or tools like Node-RED. Data collected from sensors can be transmitted to a dashboard for visualization and alerts, enabling proactive responses to environmental changes. Furthermore, the Raspberry Pi’s connectivity options, including Wi-Fi and Ethernet, facilitate seamless integration into existing networks, allowing for remote monitoring and control. Administrators can set up custom scripts to trigger automated responses, such as cooling adjustments or notifications when certain thresholds are exceeded. This approach not only enhances the reliability and efficiency of the cluster but also provides a scalable framework for expanding monitoring capabilities as the cluster grows.
+
+#
 ### When to Cluster
 
 ![Cluster](https://github.com/user-attachments/assets/397ebe85-a771-43b5-b7cc-a68f7ec7e474)
