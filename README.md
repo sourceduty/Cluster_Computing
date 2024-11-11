@@ -7,6 +7,13 @@
 Cluster computers are a collection of interconnected computers that work together as a single, unified system to perform complex computations and process large volumes of data. Each individual computer, or node, within the cluster operates independently but collaborates with the others to tackle tasks more efficiently than a single machine could. These nodes are connected through a high-speed network, enabling them to share data and workload seamlessly. Cluster computing is employed in a wide range of applications, from scientific simulations and financial modeling to big data analytics and web services. By distributing the computational load across multiple nodes, cluster computers enhance performance, reliability, and scalability, making them an essential tool for organizations that require significant processing power without the cost and limitations of supercomputers. The modular nature of clusters allows for easy expansion and maintenance, providing a flexible and cost-effective solution for meeting evolving computational demands.
 
 #
+### Custom GPT
+
+[Cluster Computer Sim](https://chatgpt.com/g/g-6731867fe6fc8190bec0cd646e443ab3-cluster-computer-sim) specializes in guiding users through the planning, design, and simulation of cluster computer networks. It is a versatile tool tailored for users interested in creating high-performance computing (HPC) systems, AI/ML clusters, or data analytics platforms. By offering detailed insights into network architecture, load balancing, resource allocation, and optimization, it enables users to build efficient and scalable computing environments. Whether the goal is to deploy a small-scale test cluster or a large, distributed system for complex computations, this GPT ensures users receive step-by-step recommendations suited to their technical expertise and specific requirements.
+
+The tool adapts to both beginners and experts, simplifying complex concepts where needed while providing advanced solutions for seasoned professionals. It uses an interactive, question-based approach to gather information about the user's needs, such as hardware constraints, workload types, and desired performance levels. By analyzing these inputs, the GPT offers customized solutions, including topology suggestions, software stack recommendations, and best practices for deployment and maintenance. Its focus on accuracy and optimization makes it a reliable resource for creating robust and efficient cluster computing systems.
+
+#
 ### When to Cluster
 
 ![Cluster](https://github.com/user-attachments/assets/397ebe85-a771-43b5-b7cc-a68f7ec7e474)
