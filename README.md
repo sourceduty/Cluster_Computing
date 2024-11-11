@@ -28,6 +28,15 @@ When considering hardware for computer clusters, the choice between new and used
 Used hardware, on the other hand, can be a cost-effective option for smaller-scale projects, testing environments, or educational purposes where budget constraints outweigh the need for maximum performance. Clusters designed for less compute-intensive tasks, such as web hosting or basic simulations, may not fully benefit from the latest advancements, making used components an excellent value. However, the risks include potential wear and reduced lifespan, lack of warranties, and compatibility challenges. Used hardware is ideal for experimental setups, prototyping, or workloads where downtime and energy efficiency are less critical. Proper benchmarking and stress testing can help ensure used components meet the required performance and reliability standards.
 
 #
+### Ethernet Cables
+
+![Ethernet](https://github.com/user-attachments/assets/8daa6a02-cdc5-49ea-a9e8-776f7798fa03)
+
+Ethernet cables come in various categories, each supporting different speeds depending on the specific standard. For example, Cat 5e and Cat 6 cables typically support speeds of 1 Gbps and 10 Gbps, respectively, under standard conditions. Cat 6a can handle up to 10 Gbps over longer distances, while Cat 7 can also support 10 Gbps with enhanced shielding to reduce interference. Cat 8 cables are the highest-rated in terms of speed, supporting up to 25 Gbps or 40 Gbps, but only over shorter distances, typically up to 30 meters.
+
+400 Gbps Ethernet standard is more specialized and typically used in high-performance environments like data centers. Cables designed to support this speed generally fall under the 400GBASE-T standard, which is often used with fiber optic cables or high-quality copper wiring. These high-speed cables are not common in consumer or typical business networking, as they are meant for very demanding networking scenarios requiring extreme bandwidth. Thus, while 400 Gbps Ethernet cables do exist, they are not the standard for most users or everyday applications.
+
+#
 ### When to Cluster
 
 ![Cluster](https://github.com/user-attachments/assets/397ebe85-a771-43b5-b7cc-a68f7ec7e474)
