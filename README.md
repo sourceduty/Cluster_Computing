@@ -178,6 +178,9 @@ Cluster computing facilitates the creation of a wide range of products that rely
 Beyond technical and scientific applications, cluster computing supports the creation of multimedia and data-driven products. High-resolution video rendering, animations, and virtual reality environments are made possible through distributed computing, enabling breakthroughs in entertainment and design. In business, clusters assist in generating financial models, real-time analytics, and large-scale data processing tools, improving decision-making and operational efficiency. They also underpin the infrastructure for cloud-based services, supporting products like SaaS platforms and data storage solutions. The versatility of cluster computing allows for innovation across various industries, making it a cornerstone for modern technological advancement.
 
 #
+![Cabling](https://github.com/user-attachments/assets/ad127b0a-7e06-4fa1-acd0-8dbff977e6d6)
+
+#
 > Alex: "*Cluster computing offline custom GPTs?*"
 
 > "*I might build a media generation cluster for Sourceduty.*"
