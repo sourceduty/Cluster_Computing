@@ -19,6 +19,19 @@ The design, building, and operation of cluster computing systems demand substant
 The tool adapts to both beginners and experts, simplifying complex concepts where needed while providing advanced solutions for seasoned professionals. It uses an interactive, question-based approach to gather information about the user's needs, such as hardware constraints, workload types, and desired performance levels. By analyzing these inputs, the GPT offers customized solutions, including topology suggestions, software stack recommendations, and best practices for deployment and maintenance. Its focus on accuracy and optimization makes it a reliable resource for creating robust and efficient cluster computing systems.
 
 #
+### HPC Clusters
+
+A High-Performance Computing (HPC) cluster is a networked system of computers designed to deliver significant computational power by processing tasks in parallel. Each computer, or node, in the cluster works collaboratively to divide and solve complex problems. These clusters are used for applications like scientific simulations, climate modeling, machine learning, and large-scale data analysis. Key features of an HPC cluster include multi-core processors, significant RAM capacity, and fast interconnects for communication between nodes. This setup ensures high computational throughput and efficient handling of data-intensive tasks.
+
+#### When is a Cluster Considered HPC?
+
+A cluster qualifies as an HPC system when it is optimized for highly parallel and compute-intensive workloads. Essential characteristics include powerful hardware, such as multi-core CPUs or GPUs, and high-speed interconnects like InfiniBand or 10+ Gbps Ethernet for low-latency communication. Additionally, scalability is a crucial aspect, as HPC clusters are designed to handle workloads that grow across hundreds or thousands of nodes. Advanced job scheduling systems like Slurm or Torque are also integral to HPC clusters, ensuring efficient resource allocation for maximum performance. These features make HPC clusters ideal for solving problems that demand massive computational resources.
+
+#### What is the Cheapest HPC Cluster Hardware?
+
+The most cost-effective way to build an HPC cluster is by using commodity hardware or refurbished enterprise-grade equipment. Consumer-grade CPUs, such as AMD Ryzen or Intel Core processors, and affordable GPUs, like NVIDIA GeForce RTX cards, offer an accessible entry point. For experimentation or education, clusters built with single-board computers like Raspberry Pi are popular but limited in performance. Alternatively, used servers, such as Dell PowerEdge or HP ProLiant, provide enterprise-level capabilities at reduced costs. While budget clusters may use gigabit Ethernet switches for interconnects, this limits performance compared to high-speed alternatives like InfiniBand. These configurations are best suited for small-scale or development-focused HPC applications.
+
+#
 ### New or Used Hardware
 
 ![Serial Communication](https://github.com/user-attachments/assets/47c48385-7435-46fc-9182-4c16528f1ecf)
